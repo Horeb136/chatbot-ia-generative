@@ -1,3 +1,4 @@
-beautifulsoup4
-requests
-praw
+pipreqs==0.5.0
+praw==7.7.1
+prawcore==2.4.0
+python-dotenv==1.0.1

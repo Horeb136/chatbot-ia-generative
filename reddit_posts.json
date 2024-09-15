@@ -1,0 +1,72 @@
+[
+    {
+        "title": "OpenAI Is \u2018Exploring\u2019 How to Responsibly Generate AI Porn",
+        "selftext": "",
+        "url": "https://www.wired.com/story/openai-is-exploring-how-to-responsibly-generate-ai-porn/",
+        "score": 394,
+        "comments": 153
+    },
+    {
+        "title": "Photoshop AI Generative Fill was used for its intended purpose",
+        "selftext": "",
+        "url": "https://www.reddit.com/gallery/1bw58y0",
+        "score": 973,
+        "comments": 44
+    },
+    {
+        "title": "Google: Data-scraping lawsuit would take 'sledgehammer' to generative AI",
+        "selftext": "- Google has asked a California federal court to dismiss a proposed class action lawsuit that claims the company's scraping of data to train generative artificial-intelligence systems violates millions of people's privacy and property rights.\n\n- Google argues that the use of public data is necessary to train systems like its chatbot Bard and that the lawsuit would 'take a sledgehammer not just to Google's services but to the very idea of generative AI.'\n\n- The lawsuit is one of several recent complaints over tech companies' alleged misuse of content without permission for AI training.\n\n- Google general counsel Halimah DeLaine Prado said in a statement that the lawsuit was 'baseless' and that U.S. law 'supports using public information to create new beneficial uses.'\n\n- Google also said its alleged use of J.L.'s book was protected by the fair use doctrine of copyright law.\n\nSource : https://www.reuters.com/legal/litigation/google-says-data-scraping-lawsuit-would-take-sledgehammer-generative-ai-2023-10-17/",
+        "url": "https://www.reddit.com/r/artificial/comments/17a9l23/google_datascraping_lawsuit_would_take/",
+        "score": 170,
+        "comments": 185
+    },
+    {
+        "title": "Why image generation AI's are so deeply censored?",
+        "selftext": "I am not even trying to make the stuff that internet calls \"nsfw\". \n\nFor example, i try to make a female character. Ai always portrays it with huge breasts. But as soon as i add \"small breast\" or \"moderate breast size\", Dall-e says \"I encountered issues generating the updated image based on your specific requests\", Midjourney says \"wow, forbidden word used, don't do that!\". How can i depict a human if certain body parts can't be named? It's not like i am trying to remove clothing from those parts of the body... \n\nI need an image of public toilett on the modern city street. Just a door, no humans, nothing else. But every time after generating image Bing says \"unsafe image contents detected, unable to display\". Why do you put unsafe content in the image in first place? You can just not use that kind of images when training a model. And what the hell do you put into OUTDOOR part of public toilett to make it unsafe? \n\nA forest? Ok. A forest with spiders? Ok. A burning forest with burning spiders? Unsafe image contents detected! I guess it can offend a Spiderman, or something. \n\nMost types of violence is also a no-no, even if it's something like a painting depicting medieval battle, or police attacking the protestors. How can someone expect people to not want to create art based on conflicts of past and present? Simply typing \"war\" in Bing, without any other words are leading to \"unsafe image detected\". \n\nOften i can't even guess what word is causing the problem since i can't even imagine how any of the words i use could be turned into \"unsafe\" image. \n\nAnd it's very annoying, it feels like walking on mine field when generating images, when every step can trigger the censoring protocol and waste my time. We are not in kindergarden, so why all of this things that limit creative process so much exist in pretty much any AI that generates images? \n\nAnd it's a whole other questions on why companies even fear so much to have a fully uncensored image generation tools in first place. Porn exists in every country of the world, even in backwards advancing ones who forbid it. It also was one of the key factors why certain data storage formats sucseeded, so even just having separate, uncensored AI with age limitation for users could make those companies insanely rich. \n\nBut they not only ignoring all potential profit from that (that's really weird since usually corporates would do anything for bigger profit), but even put a lot of effort to create so much restricting rules that it causes a lot of problems to users who are not even trying to generate nsfw stuff. Why?",
+        "url": "https://www.reddit.com/r/artificial/comments/1b6mztm/why_image_generation_ais_are_so_deeply_censored/",
+        "score": 158,
+        "comments": 123
+    },
+    {
+        "title": "All the AI photo forensics out there, can you actually tell that this image was AI generated? \n\nThis is straight from Midjourney v6, no edits or anything\n\nwhat am i missing here?",
+        "selftext": "",
+        "url": "https://i.redd.it/fhmztxvqn6lc1.jpeg",
+        "score": 76,
+        "comments": 156
+    },
+    {
+        "title": "AI generated game environments by Blockade Labs",
+        "selftext": "Blockade Labs",
+        "url": "https://v.redd.it/n85o6909qv1b1",
+        "score": 899,
+        "comments": 56
+    },
+    {
+        "title": "New data poisoning tool lets artists fight back against generative AI",
+        "selftext": "- Nightshade is a new data poisoning tool that allows artists to fight back against generative AI models.\n\n- By adding invisible changes to the pixels in their art, artists can cause chaos and unpredictable results in AI models that use their work without permission.\n\n- The tool, called Nightshade, is intended as a way to fight back against AI companies that use artists\u2019 work to train their models without the creator\u2019s permission.\n\n- Using it to \u201cpoison\u201d this training data could damage future iterations of image-generating AI models, such as DALL-E, Midjourney, and Stable Diffusion, by rendering some of their outputs useless\u2014dogs become cats, cars become cows, and so forth.\n\n- AI companies such as OpenAI, Meta, Google, and Stability AI are facing a slew of lawsuits from artists who claim that their copyrighted material and personal information was scraped without consent or compensation.\n\n- Ben Zhao, a professor at the University of Chicago, who led the team that created Nightshade, says the hope is that it will help tip the power balance back from AI companies towards artists, by creating a powerful deterrent against disrespecting artists\u2019 copyright and intellectual property.\n\n- Zhao\u2019s team also developed Glaze, a tool that allows artists to \u201cmask\u201d their own personal style to prevent it from being scraped by AI companies\n.\n- The team intends to integrate Nightshade into Glaze, and artists can choose whether they want to use the data-poisoning tool or not.\n\n- Nightshade exploits a security vulnerability in generative AI models, one arising from the fact that they are trained on vast amounts of data\u2014in this case, images that have been hoovered from the internet.\n\n- Artists who want to upload their work online but don\u2019t want their images to be scraped by AI companies can upload them to Glaze and choose to mask it with an art style different from theirs.\n\n- The researchers tested the attack on Stable Diffusion\u2019s latest models and on an AI model they trained themselves from scratch.\n\nSource : https://www.technologyreview.com/2023/10/23/1082189/data-poisoning-artists-fight-generative-ai/",
+        "url": "https://www.reddit.com/r/artificial/comments/17euc36/new_data_poisoning_tool_lets_artists_fight_back/",
+        "score": 97,
+        "comments": 181
+    },
+    {
+        "title": "Can AI generate a true random number? ",
+        "selftext": " A True Random Number Generator (TRNG) has eluded computer programmers for ages. If AI is actually intelligent shouldn't it be able to do this seemingly simple task? ",
+        "url": "https://www.reddit.com/r/artificial/comments/1c2fgnm/can_ai_generate_a_true_random_number/",
+        "score": 0,
+        "comments": 128
+    },
+    {
+        "title": "What's the best free image generator AI (with image prompt option)",
+        "selftext": " I am looking for a **FREE** AI image generator with **image prompt option**, not just text-to-image.  \n*Thanks in advance.* ",
+        "url": "https://www.reddit.com/r/artificial/comments/15b6u5s/whats_the_best_free_image_generator_ai_with_image/",
+        "score": 235,
+        "comments": 120
+    },
+    {
+        "title": "When everything online is AI generated...",
+        "selftext": "Does there come a point where we all head back offline to newspapers and books and local art shows? I already don't trust anything I see or read here or on Twitter  or anywhere else. ",
+        "url": "https://www.reddit.com/r/artificial/comments/1b2agyr/when_everything_online_is_ai_generated/",
+        "score": 125,
+        "comments": 91
+    }
+]
